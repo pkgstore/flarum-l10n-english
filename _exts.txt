@@ -1,3 +1,17 @@
+flarum/approval
+flarum/bbcode
+flarum/emoji
+flarum/flags
+flarum/likes
+flarum/lock
+flarum/markdown
+flarum/mentions
+flarum/nicknames
+flarum/pusher
+flarum/statistics
+flarum/sticky
+flarum/subscriptions
+flarum/suspend
 flarum/tags
 FriendsOfFlarum/upload
 FriendsOfFlarum/byobu
