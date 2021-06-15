@@ -1,2 +1,3 @@
+flarum/tags
 FriendsOfFlarum/upload
 FriendsOfFlarum/byobu
