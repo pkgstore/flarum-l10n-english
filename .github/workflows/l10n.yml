@@ -1,8 +1,7 @@
 name: "Flarum L10N"
 
 on:
-  schedule:
-    - cron:  "0 22 * * *"
+  - push
 
 jobs:
   l10n:
