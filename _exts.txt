@@ -1,5 +1,6 @@
 flarum/approval
 flarum/bbcode
+flarum/core
 flarum/emoji
 flarum/flags
 flarum/likes
