@@ -46,7 +46,6 @@ FriendsOfFlarum/follow-tags
 FriendsOfFlarum/formatting
 FriendsOfFlarum/forum-statistics-widget
 FriendsOfFlarum/frontpage
-FriendsOfFlarum/gamification
 FriendsOfFlarum/geoip
 FriendsOfFlarum/github-sponsors
 FriendsOfFlarum/html-errors
