@@ -4,6 +4,8 @@ on:
   schedule:
     - cron:  "0 22 * * *"
 
+  workflow_dispatch:
+
 jobs:
   l10n:
     runs-on: ubuntu-latest
