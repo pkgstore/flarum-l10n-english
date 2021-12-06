@@ -95,3 +95,4 @@ justoverclockl/flarum-ext-purify
 justoverclockl/flarum-ext-readmore
 justoverclockl/flarum-ext-socialcards
 justoverclockl/flarum-ext-welcomebox
+v17development/flarum-seo
