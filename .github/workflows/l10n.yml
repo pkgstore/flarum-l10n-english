@@ -9,11 +9,11 @@ on:
 jobs:
   l10n:
     runs-on: ubuntu-latest
-    name: "L10N"
+    name: "[L10N] AUTO-UPDATE"
     steps:
       - uses: "pkgstore/github-action-flarum-l10n@main"
         with:
           repo: "https://github.com/${{ github.repository }}.git"
-          user: "${{ secrets.L10N_USER_NAME }}"
-          email: "${{ secrets.L10N_USER_EMAIL }}"
-          token: "${{ secrets.L10N_USER_TOKEN }}"
+          user: "${{ secrets.GIT_BOT_NAME }}"
+          email: "${{ secrets.GIT_BOT_EMAIL }}"
+          token: "${{ secrets.GIT_BOT_TOKEN }}"
