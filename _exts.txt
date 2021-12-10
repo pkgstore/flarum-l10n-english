@@ -1,3 +1,4 @@
+askvortsov1/flarum-checklist
 askvortsov1/flarum-moderator-warnings
 clarkwinkelmann/flarum-ext-author-change
 clarkwinkelmann/flarum-ext-bookmarks
