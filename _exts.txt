@@ -8,6 +8,7 @@ clarkwinkelmann/flarum-ext-create-user-modal
 clarkwinkelmann/flarum-ext-email-as-display-name
 clarkwinkelmann/flarum-ext-email-whitelist
 clarkwinkelmann/flarum-ext-emojionearea
+clarkwinkelmann/flarum-ext-featured-discussions
 clarkwinkelmann/flarum-ext-first-post-approval
 clarkwinkelmann/flarum-ext-group-invitation
 clarkwinkelmann/flarum-ext-group-list
