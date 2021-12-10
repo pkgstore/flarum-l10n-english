@@ -1,5 +1,7 @@
 askvortsov1/flarum-checklist
 askvortsov1/flarum-discussion-templates
+askvortsov1/flarum-help-tags
+askvortsov1/flarum-markdown-tables
 askvortsov1/flarum-moderator-warnings
 clarkwinkelmann/flarum-ext-author-change
 clarkwinkelmann/flarum-ext-bookmarks
