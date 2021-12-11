@@ -104,4 +104,5 @@ justoverclockl/flarum-ext-readmore
 justoverclockl/flarum-ext-socialcards
 justoverclockl/flarum-ext-welcomebox
 MichaelBelgium/flarum-profile-views
+Nearata/flarum-ext-minecraft-avatars
 v17development/flarum-seo
