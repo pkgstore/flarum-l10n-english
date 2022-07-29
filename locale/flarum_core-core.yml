@@ -53,6 +53,7 @@ core:
     dashboard:
       clear_cache_button: Clear Cache
       description: Your forum at a glance.
+      io_error_message: "Could not write to filesystem. Check your filesystem permissions an try again. Or try running from the command line."
       title: Dashboard
       tools_button: Tools
 
@@ -448,6 +449,7 @@ core:
       account_heading: Account
       change_email_button: => core.ref.change_email
       change_password_button: => core.ref.change_password
+      notification_checkbox_a11y_label_template: 'Receive "{description}" notifications via {method}'
       notifications_heading: => core.ref.notifications
       notify_by_email_heading: => core.ref.email
       notify_by_web_heading: Web
@@ -534,6 +536,7 @@ core:
     # These translations are displayed as error messages.
     error:
       dependent_extensions_message: "Cannot disable {extension} until the following dependent extensions are disabled: {extensions}"
+      extension_initialiation_failed_message: "{extension} failed to initialize, check the browser console for further information."
       generic_message: "Oops! Something went wrong. Please reload the page and try again."
       missing_dependencies_message: "Cannot enable {extension} until the following dependencies are enabled: {extensions}"
       not_found_message: The requested resource was not found.
